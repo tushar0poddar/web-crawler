@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar0poddar/web-crawler.git"
+  },
+  "author": "tushar poddar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar0poddar/web-crawler/issues"
+  },
+  "homepage": "https://github.com/tushar0poddar/web-crawler#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
